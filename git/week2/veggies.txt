@@ -3,5 +3,6 @@ Tomato
 Zucchini
 Lettuce
 spinat
+Parsley
 Cucumber
 Broccoli
