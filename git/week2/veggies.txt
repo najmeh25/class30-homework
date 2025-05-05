@@ -1,5 +1,7 @@
 Carrot
 Tomato
-Onion
+Zucchini
+Lettuce
+spinat
 Cucumber
 Broccoli
